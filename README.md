@@ -18,3 +18,7 @@ Random Forest Regressor yeilded the highest accuracy for health isnurance cost e
 ## Dataset
 The dataset can be downloaded from Kaggele
 https://www.kaggle.com/datasets/mirichoi0218/insurance.
+
+
+## Credits
+[Mahmoud El Hazzouri](https://github.com/melhazzouri), [Amir Roshani](https://github.com/), [Sarb Choong](https://github.com/)
