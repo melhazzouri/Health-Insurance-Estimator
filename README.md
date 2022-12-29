@@ -21,7 +21,8 @@ https://www.kaggle.com/datasets/mirichoi0218/insurance.
 
 
 ## Credits
-[Mahmoud El Hazzouri](https://github.com/melhazzouri), [Amir Roshani](https://github.com/), [Sarb Choong](https://github.com/)
+[Mahmoud El Hazzouri](https://github.com/melhazzouri), [Amir Roshani](https://github.com/
+AmirRoshaniMoghaddam), [Sarb Choong](https://github.com/)
 
 
 For further details see the notebooks in the repository.
