@@ -12,7 +12,7 @@ Random Forest Regressor yeilded the highest accuracy for health isnurance cost e
 * Smoking is the biggest factor influencing medical cost fees, followed by body mass index and age.
 * The insurance cost of a non-smoker is less than that of a smoker.
 * The higher the age, the higher the insurance cost value.
-* Regional differences and gender do not have a significant impact on insurance costs.¶
+* Regional differences and gender do not have a significant impact on insurance costs.
 
 
 ## Dataset
